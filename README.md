@@ -13,7 +13,7 @@ Software Engineer Student from Senegal 🇸🇳
 - Express
 
 ## Current Projects
-- BH66 | link : https://bh66.vercel.app/
+- BH66
 - PerfAi
 
 ## Goals for 2026
