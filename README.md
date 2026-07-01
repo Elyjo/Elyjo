@@ -3,7 +3,7 @@
 Software Engineer Student from Senegal 🇸🇳
 
 ## Tech Stack
-- React
+- Next.js
 - Angular
 - Node.js
 - PostgreSQL
@@ -13,7 +13,7 @@ Software Engineer Student from Senegal 🇸🇳
 - Express
 
 ## Current Projects
-- BH66
+- TicQuiz
 - PerfAi
 
 ## Goals for 2026
