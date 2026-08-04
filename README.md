@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Elyjo
 
-### Software Engineering Student 🇸🇳 | Building AI-powered products for Africa 🚀
+### Software Engineering Student 🇸🇳 | Building AI-Powered Products for Africa 🚀
 
 Passionate about software engineering, artificial intelligence, cloud technologies, and building impactful digital products that solve real-world problems.
 
-Currently focused on developing **PerfAI**, an AI-powered work intelligence platform designed to help organizations transform reports into actionable insights.
+Currently building **PerfAI**, an AI-powered work intelligence platform designed to help organizations transform reports into actionable insights.
 
 ---
 
@@ -12,7 +12,7 @@ Currently focused on developing **PerfAI**, an AI-powered work intelligence plat
 
 * 🎓 Software Engineering Student
 * 🌍 Based in Senegal
-* 💡 Founder of **PerfAI**
+* 🤖 Founder of PerfAI
 * ☁️ Future Cloud Engineer
 * 📚 Currently learning Advanced JavaScript, TypeScript, Node.js & System Design
 
@@ -29,30 +29,38 @@ Currently focused on developing **PerfAI**, an AI-powered work intelligence plat
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,supabase,php" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### Tools
+### Tools & Environment
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Cursor-AI%20Code%20Editor-000000?style=for-the-badge" />
+</p>
+
 ---
 
-## 🚧 Current Projects
+## 🚧 Currently Building
 
 ### 🤖 PerfAI
 
 AI-powered Work Intelligence Platform
 
-Transform employee reports, voice updates and project activities into actionable insights, performance analytics and intelligent summaries.
+Transform employee reports, voice updates, and project activities into actionable insights, intelligent summaries, delay detection, and performance analytics.
+
+---
+
+## 🏆 Featured Projects
 
 ### 🧠 TicQuiz
 
@@ -65,8 +73,8 @@ Interactive quiz platform designed to make learning more engaging and accessible
 * 🚀 Launch the first version of PerfAI
 * ☁️ Strengthen Cloud Engineering skills
 * 🏗️ Master Backend Architecture & System Design
-* 🌍 Build impactful African technology products
-* 🤝 Contribute to the African tech ecosystem
+* 🤖 Build AI-powered solutions
+* 🌍 Create impactful African technology products
 
 ---
 
