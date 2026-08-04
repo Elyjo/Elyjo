@@ -25,7 +25,7 @@ PerfAI transforms reports, updates and voice notes into intelligent summaries, d
 * 🚀 Building PerfAI
 * 🏗️ Learning Software Architecture & System Design
 * ⚡ Mastering JavaScript, TypeScript and Backend Engineering
-* ☁️ Growing toward Cloud Engineering
+* Growing toward Backend Engineering
 * 📝 Sharing my journey publicly on LinkedIn
 
 ---
@@ -80,7 +80,7 @@ Completed and deployed.
 
 * 🚀 Launch the first version of PerfAI
 * 🏢 Bring PerfAI to real organizations
-* ☁️ Strengthen Cloud Engineering skills
+* Strengthen Backend Engineering skills
 * 🏗️ Master Software Architecture & System Design
 * 🤖 Build impactful AI-powered solutions
 * 🌍 Contribute to African innovation through technology
