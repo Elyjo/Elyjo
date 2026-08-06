@@ -8,9 +8,9 @@ Currently building **PerfAI**, a digital product ecosystem focused on creating i
 
 ---
 
-## 🚀 Current Projects 👇
+🚀 Current Projects 👇
 
-🤖 PerfAI Ecosystem
+## 🤖 PerfAI Ecosystem
 
 **PerfAI** is an ecosystem of digital solutions currently under development, designed to explore how artificial intelligence and modern software engineering can solve real-world problems.
 
