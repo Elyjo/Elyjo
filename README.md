@@ -8,7 +8,7 @@ Currently building **PerfAI**, a digital product ecosystem focused on creating i
 
 ---
 
-🚀 Current Projects 👇
+🚀 What I'm cooking 👇
 
 ## 🤖 PerfAI Ecosystem
 
@@ -19,25 +19,6 @@ The ecosystem focuses on building scalable applications by combining:
 - Data-driven insights
 - Artificial intelligence
 - User-centered product design
-
----
-
-## 📊 PerfAI Performance
-
-An AI-powered platform designed to improve visibility into team activities, project progress, and operational performance.
-
-The solution explores how organizations can better manage workflows, analyze information, and transform operational data into actionable insights.
-
-**Status:** In development
-
----
-
-## 💳 PerfAI Finance
-
-A financial analysis and decision-support solution developed to explore intelligent approaches for financial evaluation and risk analysis.
-The product focuses on leveraging technology and data to assist decision-making processes.
-
-**Status:** In development
 
 ---
 
@@ -87,13 +68,14 @@ The product focuses on leveraging technology and data to assist decision-making 
 
 ## 🏆 Featured Projects
 
-### 🚀 PerfAI Performance
+### 📊 PerfAI Performance
 
 AI-powered SaaS platform currently under development.
 
 Building a modern web application focused on performance monitoring, reporting, and intelligent insights.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+**Status:** In development
 
 ---
 
@@ -104,6 +86,7 @@ Financial analysis and decision-support solution currently under development.
 Developed as part of a collaborative challenge project.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+**Status:** In development
 
 ---
 
@@ -111,13 +94,15 @@ Developed as part of a collaborative challenge project.
 
 Student marketplace platform designed to simplify buying, selling, and exchanging services within the campus ecosystem.
 
+**Status:** Complete and deployed -> https://click-uad.vercel.app/
+
 ---
 
 ### 🧠 TicQuiz
 
 Interactive quiz platform designed to make learning more engaging.
 
-Completed and deployed.
+**Status:** Complete and deployed -> https://ticquiz-beta.vercel.app/
 
 ---
 
