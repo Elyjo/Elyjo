@@ -8,7 +8,7 @@ Currently building **PerfAI**, a digital product ecosystem focused on creating i
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Current Projects 👇
 
 ## 🤖 PerfAI Ecosystem
 
