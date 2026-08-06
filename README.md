@@ -35,7 +35,6 @@ The solution explores how organizations can better manage workflows, analyze inf
 ## 💳 PerfAI Finance
 
 A financial analysis and decision-support solution developed to explore intelligent approaches for financial evaluation and risk analysis.
-recrutement@strivio.ma
 The product focuses on leveraging technology and data to assist decision-making processes.
 
 **Status:** In development
@@ -47,7 +46,7 @@ The product focuses on leveraging technology and data to assist decision-making 
 - 🚀 Building the PerfAI ecosystem
 - 🏗️ Improving software architecture and system design skills
 - ⚡ Deepening JavaScript, TypeScript, and backend engineering knowledge
-- ☁️ Growing toward Cloud Engineering
+- 🟢 Learning Node.js and Express.js to strengthen my backend engineering skills
 - 📝 Sharing my learning journey and projects publicly
 
 ---
