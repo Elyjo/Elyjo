@@ -1,32 +1,54 @@
 # 👋 Hey, I'm Elyjo
 
-### Building AI-powered products from Senegal 🇸🇳
+### Software Engineering Student building digital products from Senegal 🇸🇳
 
-Software Engineering Student passionate about backend engineering, artificial intelligence, cloud technologies, and product development.
+Software Engineering student passionate about web development, backend engineering, artificial intelligence, cloud technologies, and product development.
 
-Currently building **PerfAI**, an AI-powered work intelligence platform designed to help organizations transform operational data into actionable insights.
+Currently building **PerfAI**, a digital product ecosystem focused on creating intelligent solutions that help organizations and users make better decisions through technology.
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🤖 PerfAI
+## 🤖 PerfAI Ecosystem
 
-An AI-powered Work Intelligence Platform that helps managers gain visibility into team activity, project progress, and operational performance.
+**PerfAI** is an ecosystem of digital solutions currently under development, designed to explore how artificial intelligence and modern software engineering can solve real-world problems.
 
-PerfAI transforms reports, updates, and voice notes into intelligent summaries, delay detection, contribution tracking, and actionable insights.
+The ecosystem focuses on building scalable applications by combining:
+- Modern web technologies
+- Data-driven insights
+- Artificial intelligence
+- User-centered product design
 
-**Mission:** Turn operational chaos into clarity.
+---
+
+## 📊 PerfAI Performance
+
+An AI-powered platform designed to improve visibility into team activities, project progress, and operational performance.
+
+The solution explores how organizations can better manage workflows, analyze information, and transform operational data into actionable insights.
+
+**Status:** In development
+
+---
+
+## 💳 PerfAI Finance
+
+A financial analysis and decision-support solution developed to explore intelligent approaches for financial evaluation and risk analysis.
+
+The product focuses on leveraging technology and data to assist decision-making processes.
+
+**Status:** In development
 
 ---
 
 ## 💡 Current Focus
 
-* 🚀 Building PerfAI
-* 🏗️ Learning Software Architecture & System Design
-* ⚡ Mastering JavaScript, TypeScript, and Backend Engineering
-* ☁️ Growing toward Cloud Engineering
-* 📝 Sharing my journey publicly on LinkedIn
+- 🚀 Building the PerfAI ecosystem
+- 🏗️ Improving software architecture and system design skills
+- ⚡ Deepening JavaScript, TypeScript, and backend engineering knowledge
+- ☁️ Growing toward Cloud Engineering
+- 📝 Sharing my learning journey and projects publicly
 
 ---
 
@@ -66,13 +88,35 @@ PerfAI transforms reports, updates, and voice notes into intelligent summaries, 
 
 ## 🏆 Featured Projects
 
-### 🛒 Cick
+### 🚀 PerfAI Performance
 
-A student marketplace platform designed to simplify buying, selling, and exchanging products and services within the campus ecosystem.
+AI-powered SaaS platform currently under development.
+
+Building a modern web application focused on performance monitoring, reporting, and intelligent insights.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+
+---
+
+### 💳 PerfAI Finance
+
+Financial analysis and decision-support solution currently under development.
+
+Developed as part of a collaborative challenge project.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+
+---
+
+### 🛒 Click
+
+Student marketplace platform designed to simplify buying, selling, and exchanging services within the campus ecosystem.
+
+---
 
 ### 🧠 TicQuiz
 
-An interactive quiz platform built to make learning more engaging and accessible.
+Interactive quiz platform designed to make learning more engaging.
 
 Completed and deployed.
 
@@ -80,12 +124,11 @@ Completed and deployed.
 
 ## 🎯 Goals for 2026
 
-* 🚀 Launch the first version of PerfAI
-* 🏢 Bring PerfAI to real organizations
-* ☁️ Strengthen Cloud Engineering skills
-* 🏗️ Master Software Architecture & System Design
-* 🤖 Build impactful AI-powered solutions
-* 🌍 Contribute to African innovation through technology
+- 🚀 Release the first versions of PerfAI products
+- 🏗️ Continue improving software architecture skills
+- ☁️ Strengthen Cloud Engineering knowledge
+- 🤖 Build impactful AI-powered solutions
+- 🌍 Contribute to African innovation through technology
 
 ---
 
@@ -101,4 +144,4 @@ Completed and deployed.
 
 ## 💭 Vision
 
-> Building AI-powered products that solve real problems and create impact across Africa.
+> Building AI-powered digital products that solve meaningful problems and create impact through technology.
