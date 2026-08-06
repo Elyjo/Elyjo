@@ -75,6 +75,7 @@ AI-powered SaaS platform currently under development.
 Building a modern web application focused on performance monitoring, reporting, and intelligent insights.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+
 **Status:** In development
 
 ---
@@ -86,6 +87,7 @@ Financial analysis and decision-support solution currently under development.
 Developed as part of a collaborative challenge project.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase
+
 **Status:** In development
 
 ---
