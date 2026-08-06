@@ -124,7 +124,7 @@ Interactive quiz platform designed to make learning more engaging.
   </a>
 </p>
 
-
+---
 
 ## 💭 Vision
 
