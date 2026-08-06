@@ -35,7 +35,7 @@ The solution explores how organizations can better manage workflows, analyze inf
 ## 💳 PerfAI Finance
 
 A financial analysis and decision-support solution developed to explore intelligent approaches for financial evaluation and risk analysis.
-
+recrutement@strivio.ma
 The product focuses on leveraging technology and data to assist decision-making processes.
 
 **Status:** In development
@@ -63,7 +63,7 @@ The product focuses on leveraging technology and data to assist decision-making 
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,supabase,php" />
+  <img src="https://skillicons.dev/icons?i=laravel,supabase,php" />
 </p>
 
 ### Databases
