@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Elyjo
+## Welcome to my world, I'm Elyjo
 
 ### Software Engineering Student building digital products from Senegal 🇸🇳
 
