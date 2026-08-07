@@ -1,4 +1,5 @@
-## Welcome to my world, I'm Elyjo
+## Steve Jobs once sait <Think differently/>
+## Hi, I'm Elyjo
 
 ### Software Engineering Student building digital products from Senegal 🇸🇳
 
