@@ -1,4 +1,4 @@
-## Steve Jobs once sait <Think differently/>
+## Steve Jobs once said <Think differently/>
 ## Hi, I'm Elyjo
 
 ### Software Engineering Student building digital products from Senegal 🇸🇳
